@@ -29,7 +29,7 @@ The assistant will find relevant content and answer based on the document.
 
 ## Demo Screenshot
 
-[Insert demo.png](screenshots/demo.png)
+![demo](screenshots/demo.png)
 
 ## Examples
 
