@@ -1,0 +1,12 @@
+# Ignore .idea folder (for JetBrains IDEs like PyCharm)
+.idea/
+
+# Ignore Gradio temporary files
+.gradio/
+
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore system files like macOS .DS_Store (optional, for macOS users)
+.DS_Store
+
